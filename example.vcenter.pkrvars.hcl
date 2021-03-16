@@ -1,0 +1,7 @@
+vsphere-cluster     = "nodes"
+vsphere-datacenter  = "Datacenter"
+vsphere-datastore   = "Pool1"
+vsphere-folder      = "packer"
+vsphere-host        = "node1.example.com"
+vsphere-server      = "vcenter.example.com"
+vsphere-user        = "administrator@sso.example.com"
