@@ -6,4 +6,5 @@ crash.log
 
 # For built boxes
 *.box
-secrets.pkvars.hcl
+secrets.pkrvars.hcl
+vcenter.pkrvars.hcl
